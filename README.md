@@ -3,7 +3,7 @@
 **aniket328/aniket328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://github.com/aniket328/aniket328/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+<img src="https://github.com/aniket328/aniket328/Hi.gif" alt="alt text" width="100" height="100" />
 
 
 ### Hi there 👋 Aniket Here..

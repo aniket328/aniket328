@@ -1,6 +1,7 @@
 
 <!--
 **aniket328/aniket328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <img src="https://github.com/aniket328/aniket328/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 
@@ -30,7 +31,7 @@
 - 📫 How to reach me: [Mail](mailto:ranjan.aniket20013@gmail.com), [LinkedIn](https://www.linkedin.com/in/aniket328).
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I am a national level Swimmer who can swim equaly fast in deep code bases as well :P
--->
+
 
 
 ![Anikets's github stats](https://github-readme-stats.vercel.app/api?username=aniket328&show_icons=true&hide_border=true)

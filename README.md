@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/aniket328">
   <img align="left" alt="Aniket's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/user7027vu/">
+<a href="https://leetcode.com/minocharaman/">
   <img align="left" alt="Aniket's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 

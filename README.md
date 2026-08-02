@@ -90,12 +90,14 @@
 
 ## 🔭 What I'm Building
 
-| Project | What it is |
-|---|---|
-| [**CWI-UMS**](https://github.com/aniket328/CWI-UMS) | Unified Memory System — a governance-enforced, anchored knowledge tree for AI agents |
-| [**Blue / EdZen**](https://github.com/aniket328/blue) | Multi-tenant school management platform — FastAPI + React, schema-per-tenant |
-| [**prism-engine**](https://github.com/aniket328/prism-engine) | Documentation + reasoning engine for large codebases |
-| [**Open-Source-Programmes**](https://github.com/aniket328/Open-Source-Programmes-complete-list) | ⭐ 32 — exhaustive list of every open-source programme worth applying to |
+| Project | What it is | |
+|---|---|---|
+| **CWI-UMS** | Unified Memory System — a governance-enforced, anchored knowledge tree that lets AI agents reason over a whole codebase | 🔒 |
+| **EdZen** | Multi-tenant school management platform — FastAPI + React, schema-per-tenant isolation, live in production | 🔒 |
+| **PRISM** | Documentation + reasoning engine for large codebases | 🔒 |
+| [**Open-Source-Programmes**](https://github.com/aniket328/Open-Source-Programmes-complete-list) | ⭐ 32 — exhaustive list of every open-source programme worth applying to | 🌐 |
+
+<sub>🔒 = private / commercial · most of my day-to-day work lives here, so the public graph below undersells it.</sub>
 
 ## 🌍 Open Source Contributions
 

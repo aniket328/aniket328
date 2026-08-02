@@ -1,0 +1,69 @@
+name: Generate metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      HAS_TOKEN: ${{ secrets.METRICS_TOKEN != '' }}
+    steps:
+      # Overview card — includes PRIVATE repo activity, unlike any hosted instance
+      - name: Overview
+        if: env.HAS_TOKEN == 'true'
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics/overview.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          user: aniket328
+          repositories_affiliations: owner, collaborator, organization_member
+
+      # Language breakdown weighted over ALL repos, noise excluded
+      - name: Languages
+        if: env.HAS_TOKEN == 'true'
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics/languages.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          user: aniket328
+          repositories_affiliations: owner, collaborator, organization_member
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_sections: most-used
+          plugin_languages_ignored: >-
+            jupyter notebook, php, html, css, scss, rich text format, perl,
+            rebol, vbscript, batchfile, smarty, twig, mako, makefile,
+            dockerfile, hcl, digital command language
+
+      # Contribution calendar
+      - name: Isocalendar
+        if: env.HAS_TOKEN == 'true'
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics/calendar.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          user: aniket328
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

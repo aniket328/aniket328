@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Aniket%20Ranjan&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Builder%20·%20Contributor%20·%20Explorer&descSize=18&descAlignY=54&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Aniket%20Ranjan&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Founder%20·%20Solutions%20Architect%20·%20DevOps,%20Backend%20%26%20Blockchain&descSize=16&descAlignY=54&animation=fadeIn" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Open+Source+%7C+Cloud+Native+%7C+Agentic+AI;GSoC'21+%40+NRNB+%C2%B7+IIT+Kharagpur;Write+Code.+Save+Lives.;Building+things+that+matter%2C+from+Ranchi." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=IIT+Kharagpur+%C2%B7+GSoC+'21+%26+'22+Alumnus;Published+Researcher+%C2%B7+7%2B+Years+Shipping+Products;FinTech+%7C+EdTech+%7C+Web3+%7C+Cloud+Native;Write+Code.+Save+Lives." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,10 +19,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/aniket328/aniket328/main/Hi.gif" width="180" alt="hi" />
 
-- 🎓 **IIT Kharagpur** · **GSoC '21 @ NRNB** — open source since day one
+- 🎓 **IIT Kharagpur** · **GSoC '21 & '22 alumnus** · published researcher
+- 🏗️ **Founder & Solutions Architect** — 7+ years shipping products across **FinTech, EdTech, and Web3**
+- ⚙️ Specialise in **DevOps, backend systems, and blockchain infrastructure**
 - 🧠 Building an **open agentic second brain** — an AI memory layer for everyone, not just the technical few
 - ☁️ Deep in **Kubernetes, GCP, and cloud-native tooling**
-- ⛓️ Exploring **Web3 infrastructure** and DeFi primitives
 - 🏊 National-level swimmer who dives equally deep into codebases
 - 📫 Reach me at **ranjan.aniket20013@gmail.com**
 
@@ -72,8 +73,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aniket328&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket328&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="top langs" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=aniket328&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" alt="stats" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aniket328&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="top langs" />
 
 <br/>
 
@@ -81,7 +82,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aniket328&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+<img src="https://github-trophies.vercel.app/?username=aniket328&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 
 </div>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Aniket%20Ranjan&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Founder%20·%20Solutions%20Architect%20·%20DevOps,%20Backend%20%26%20Blockchain&descSize=16&descAlignY=54&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Aniket%20Ranjan&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Founder%20%C2%B7%20Solutions%20Architect%20%C2%B7%20DevOps%2C%20Backend%20%26%20Blockchain&descSize=16&descAlignY=54&animation=fadeIn" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=IIT+Kharagpur+%C2%B7+GSoC+'21+%26+'22+Alumnus;Published+Researcher+%C2%B7+7%2B+Years+Shipping+Products;FinTech+%7C+EdTech+%7C+Web3+%7C+Cloud+Native;Write+Code.+Save+Lives." alt="Typing SVG" />
 
@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=aniket328&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" alt="stats" />
-<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aniket328&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="top langs" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=aniket328&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" alt="stats" />
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aniket328&layout=compact&langs_count=8&hide=jupyter%20notebook,php,html,css,rich%20text%20format,perl,rebol,vbscript,batchfile,smarty,twig,mako,scss&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="top langs" />
 
 <br/>
 
